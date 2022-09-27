@@ -40,7 +40,7 @@ print(votes[0].get_text())
 desc = soup.select('div.item_description')
 print(desc[0].get_text())
 
-# #TRIAL
+# #TRIAL - not yet work
 # #getting image
 # images=soup.find('img')
 #  #image link
