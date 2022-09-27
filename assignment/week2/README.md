@@ -6,5 +6,7 @@ Here's my <b>answer</b> to the assignment you gave in class regarding Web Scrapp
 I used Google Colab and copy paste the answer in the github.<br>
 I also didn't erase my commands and some of my attempts.<br>
 
+Please open the file named : <h2>IMDB</h2>
+
 <br>
 Thank you!!
