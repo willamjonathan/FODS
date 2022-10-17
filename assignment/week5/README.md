@@ -11,6 +11,7 @@ Please open the file named -> <h2>Assignment2(1).ipynb</h2>
 I also downloaded the python file incase, the ipynb error.
 
 <br>
+The csv file is the data that i used.<br>
 The  png files show the proof of the working program.<br>
 
 <br>
