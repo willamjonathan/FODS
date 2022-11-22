@@ -4,7 +4,7 @@ My name is <b>William Jonathan Mulyadi</b><br>My NIM:<b> 2502045683</b><br>Class
 <br>
 Here's my <b>answer</b> to the assignment you gave in class in week 8.<br>
 
-I also didn't erase my commands and some of my attempts.<br>
+I didn't erase my commands and some of my attempts.<br>
 
 Please open the file named -> <h2>AssignmentWeek8.ipynb</h2> for exercise 1 answer
 
