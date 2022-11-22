@@ -12,10 +12,12 @@ Please open the file named -> <h2>AssignmentWeek8AP (1).ipynb on the othermethod
 
 <br>
 <br>
-Thank you!!
+Thank you!! I hope that it is the right answer :D
 <br>
 Regards,
 <br>
 <br>
 WILLIAM JONATHAN M
+<br>
+2502045683
 
