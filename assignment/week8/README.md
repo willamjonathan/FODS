@@ -8,6 +8,7 @@ I didn't erase my commands and some of my attempts.<br>
 
 Please open the file named -> <h2>AssignmentWeek8.ipynb on the Exercise 1 folder</h2> for exercise 1 answer<br><br>
 Please open the file named -> <h2>AssignmentWeek8_2.ipynb on the owndataset folder</h2> for the using my own data answer<br><br>
+Please open the file named -> <h2>AssignmentWeek8AP (1).ipynb on the othermethod folder</h2> for the other method of clustering answer<br><br>
 
 <br>
 <br>
